@@ -1,0 +1,15 @@
+{
+  "name": "date_formating",
+  "version": "1.0.0",
+  "description": "foramte date",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hiraparavishal/date_formatter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Hirapara",
+  "license": "ISC"
+}
